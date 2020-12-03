@@ -1,0 +1,88 @@
+body {
+  background-color: #ffdd90;
+  background-image: url("fondoo.jpg");
+}
+
+ul
+{
+list-style-type:circle; /*cirulo sin relleno*//*square;*/
+}
+
+/*Darle presentacion a las listas*/
+.menu
+{
+background:#3BE7CA ; /*Color de fondo a la lista*/
+list-style:none;   /*Estilo de lista ninguna*/
+margin:5px;   /*Margen externo*/
+padding:5px;  /*Margen interno*/
+}
+
+.menu li
+{
+display:inline-block;
+}
+
+.menu li a
+{
+padding:5px 10px; /*Margen interno*/
+display:inline-block;
+color:#1215E9;
+}
+
+.menu li a:hover
+{
+background:#128AE9; 
+color:#128AE9;
+}*/    
+
+
+
+ 
+
+body
+{
+margin:5px;
+}
+
+/*Titulo de la pagina*/
+h1
+{
+color:#F22A16;
+}
+
+h2
+{
+color:#D471E0:
+}
+
+/*pie de pagina*/
+footer
+{
+color:#443E2D; 
+}
+
+h4
+{
+color:#443E2D; 
+}
+
+
+h4
+{
+color:#F0F0F7;
+list-style:none;  /*Estilo de lista ninguna*/
+margin:0px;   /*Margen externo*/
+padding:0px;  /*Margen interno*/
+width=10px;
+height=50px;
+
+}
+
+
+
+
+
+
+
+
+
